@@ -1,4 +1,4 @@
-// usercontroller.js
+// usercontrollerr.js
 import User from '../models/users.model.js';
 
 export const getUser = async (req, res) => {
