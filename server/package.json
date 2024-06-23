@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/sranjan-git/quickbill""
   },
-  "author": "Bhanu",
+  "author": "Sudhanshu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/sranjan-git/quickbill"
   },
   "homepage": "",
   "dependencies": {
