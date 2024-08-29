@@ -1,6 +1,4 @@
 # Quickbill
-
-## Overview
 Quickbill is designed to help users log in using Google OAuth, view details of due invoices on a SaaS platform, 
 and automate the process of sending past-due invoice reminders and follow-up sequences. 
 This system integrates with Zapier to trigger automation actions, demonstrating the use of third-party services, OAuth authentication, and a microservices architecture.
